@@ -1,0 +1,7 @@
+{
+    "travels":[
+        {"id":"1", "name":"한국", "imgLink":"/img/KakaoTalk_20231023_165730196.jpg"},
+        {"id":"2", "name":"미국", "imgLink":"/img/pulisic.jpg"},
+        {"id":"3", "name":"일본", "imgLink":"/img/kaoru_mitoma.jpg"}
+    ]
+}
